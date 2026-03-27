@@ -1,7 +1,7 @@
 {
   "name": "Bíblia Slide RAM",
   "short_name": "Bíblia RAM",
-  "description": "Web app para projeção de versículos, temas, fundos e criador de slides de palestra.",
+  "description": "Web app para projeção de versículos, temas, fundos, criador e organização de slides.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#07172e",
