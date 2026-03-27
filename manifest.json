@@ -1,22 +1,14 @@
 {
   "name": "Bíblia Slide RAM",
   "short_name": "Bíblia RAM",
-  "description": "Web app para projeção de versículos e slides de palestra.",
+  "description": "Web app para projeção de versículos, temas, fundos e slides de palestra.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#07172e",
   "theme_color": "#07172e",
   "orientation": "any",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
